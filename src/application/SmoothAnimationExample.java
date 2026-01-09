@@ -21,7 +21,7 @@ public class SmoothAnimationExample extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         
-        Circle circle = new Circle(50, Color.BLUE);
+        Circle circle = new Circle(50, Color.GREEN);
 
         circle.setTranslateX(-200);
 
